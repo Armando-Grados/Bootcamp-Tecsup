@@ -1,0 +1,22 @@
+* {
+  font-family: "Poppins";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body * {
+  font-family: "Poppins", sans-serif;
+}
+
+.flex_center_display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  border-radius: 8px !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+}
